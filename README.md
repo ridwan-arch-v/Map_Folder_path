@@ -23,8 +23,8 @@ To use the Folder Structure Logger, follow these steps:
 1. **Clone this repository:**
 
    ```bash
-   git clone https://github.com/yourusername/folder-structure-logger.git
-   cd folder-structure-logger
+   git https://github.com/ridwan-arch-v/Map_Folder_path.git
+   cd Map_Folder_path
    ```
 
 2. **Install dependencies:**
